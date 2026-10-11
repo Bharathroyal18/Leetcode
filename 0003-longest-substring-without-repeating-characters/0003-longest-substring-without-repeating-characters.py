@@ -11,7 +11,9 @@ class Solution:
             else:
                 while s[right] in ans:
                     ans.remove(s[left])
-                    left+=1
-            ans.add(s[right])
+                    left=left+1
+                ans.add(s[right])
+                length = right - left + 1
+                max_length = max(max_length, length)
         return max_length
         
