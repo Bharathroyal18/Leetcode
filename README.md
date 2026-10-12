@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
 | [3668-restore-finishing-order](https://github.com/Bharathroyal18/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/Bharathroyal18/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharathroyal18/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/Bharathroyal18/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
