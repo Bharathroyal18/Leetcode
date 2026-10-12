@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharathroyal18/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Bharathroyal18/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bharathroyal18/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bharathroyal18/Leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Bharathroyal18/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
