@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bharathroyal18/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharathroyal18/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Bharathroyal18/Leetcode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
+| [3668-restore-finishing-order](https://github.com/Bharathroyal18/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
