@@ -4,8 +4,8 @@ class Solution:
         streak = 0
         for i in range(len(nums)):
             if nums[i] == 0:
-                streak += 1
-                count += streak
+                streak = streak+1
+                count = count+streak
             else:
                 streak = 0
         return count
@@ -19,7 +19,6 @@ class Solution:
         #         else:
         #             break
         # return count
-
 
 
         # count = 0
