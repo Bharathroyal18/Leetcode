@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bharathroyal18/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharathroyal18/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Bharathroyal18/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathroyal18/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2235-add-two-integers](https://github.com/Bharathroyal18/Leetcode/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2652-sum-multiples](https://github.com/Bharathroyal18/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3280-convert-date-to-binary](https://github.com/Bharathroyal18/Leetcode/tree/master/3280-convert-date-to-binary) |
