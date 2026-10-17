@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Bharathroyal18/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0682-baseball-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bharathroyal18/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharathroyal18/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bharathroyal18/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharathroyal18/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0682-baseball-game) |
 | [3174-clear-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
