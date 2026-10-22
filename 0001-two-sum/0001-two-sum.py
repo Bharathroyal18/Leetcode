@@ -3,10 +3,10 @@ class Solution:
         d = {}
 
         for i in range(len(nums)):
-            needed = target - nums[i]
+            ans = target - nums[i]
 
-            if needed in d:
-                return [d[needed], i]
+            if ans in d:
+                return [d[ans], i]
 
             d[nums[i]] = i
         
