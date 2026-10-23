@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Bharathroyal18/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Bharathroyal18/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Bharathroyal18/Leetcode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/Bharathroyal18/Leetcode/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/Bharathroyal18/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bharathroyal18/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/Bharathroyal18/Leetcode/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
