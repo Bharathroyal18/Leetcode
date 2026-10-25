@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bharathroyal18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bharathroyal18/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Bharathroyal18/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/Bharathroyal18/Leetcode/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Bharathroyal18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Bharathroyal18/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bharathroyal18/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Bharathroyal18/Leetcode/tree/master/2951-find-the-peaks) |
 ## Math
 |  |
 | ------- |
