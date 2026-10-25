@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bharathroyal18/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/Bharathroyal18/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Bharathroyal18/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathroyal18/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3895-count-digit-appearances](https://github.com/Bharathroyal18/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bharathroyal18/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bharathroyal18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Bharathroyal18/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathroyal18/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharathroyal18/Leetcode/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bharathroyal18/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathroyal18/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
 | ------- |
