@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bharathroyal18/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Bharathroyal18/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathroyal18/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bharathroyal18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bharathroyal18/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bharathroyal18/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Bharathroyal18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bharathroyal18/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Bharathroyal18/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Bharathroyal18/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2652-sum-multiples](https://github.com/Bharathroyal18/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bharathroyal18/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -230,8 +233,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Bharathroyal18/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Bharathroyal18/Leetcode/tree/master/0867-transpose-matrix) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
