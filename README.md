@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bharathroyal18/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharathroyal18/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Bharathroyal18/Leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Bharathroyal18/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -292,4 +293,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bharathroyal18/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
