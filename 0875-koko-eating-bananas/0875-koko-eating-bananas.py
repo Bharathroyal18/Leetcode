@@ -16,3 +16,5 @@ class Solution:
                 left = mid + 1
 
         return left
+
+        #left represents the minimum valid eating speed when the loop ends.
