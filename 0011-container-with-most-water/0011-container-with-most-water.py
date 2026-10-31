@@ -13,6 +13,6 @@ class Solution:
             if height[left]<height[right]:
                 left=left+1
             else:
-                right-=1
+                right=right-1
         return maximum
         
