@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bharathroyal18/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1470-shuffle-the-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharathroyal18/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Bharathroyal18/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
