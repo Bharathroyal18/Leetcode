@@ -6,6 +6,8 @@ class Solution:
                 d[nums[i]] += 1
             else:
                 d[nums[i]] = 1
+
+                
         ans = sorted(d, key=d.get, reverse=True)
 
         return ans[:k]
