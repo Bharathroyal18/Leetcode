@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharathroyal18/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Bharathroyal18/Leetcode/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharathroyal18/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Bharathroyal18/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharathroyal18/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharathroyal18/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Bharathroyal18/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Bharathroyal18/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -274,11 +278,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharathroyal18/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharathroyal18/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Design
 |  |
@@ -348,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
