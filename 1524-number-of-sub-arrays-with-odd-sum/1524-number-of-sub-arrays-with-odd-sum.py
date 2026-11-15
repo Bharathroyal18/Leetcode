@@ -7,15 +7,15 @@ class Solution:
         prefix = 0
         count = 0
 
-        for num in arr:
-            prefix += num
+        for i in range(len(arr)):
+            prefix = prefix + arr[i]
 
             if prefix % 2 == 0:
-                count += odd
-                even += 1
+                count = count + odd
+                even = even + 1
             else:
-                count += even
-                odd += 1
+                count = count + even
+                odd = odd + 1
 
         return count % mod
         
