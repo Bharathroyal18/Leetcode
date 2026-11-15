@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Bharathroyal18/Leetcode/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bharathroyal18/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Bharathroyal18/Leetcode/tree/master/1512-number-of-good-pairs) |
