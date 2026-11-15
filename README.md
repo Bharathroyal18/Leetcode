@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Bharathroyal18/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bharathroyal18/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Bharathroyal18/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Bharathroyal18/Leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharathroyal18/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Bharathroyal18/Leetcode/tree/master/0228-summary-ranges) |
