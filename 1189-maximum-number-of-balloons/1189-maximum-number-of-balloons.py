@@ -12,7 +12,11 @@ class Solution:
         count = float('inf')
 
         for key in word:
-            required = 2 if key == 'l' or key == 'o' else 1
+            if key == 'l' or key == 'o':
+                required = 2
+            else:
+                required = 1
+
             count = min(count, d.get(key, 0) // required)
 
         return count
