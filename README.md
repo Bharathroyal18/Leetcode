@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bharathroyal18/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Bharathroyal18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bharathroyal18/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Bharathroyal18/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharathroyal18/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bharathroyal18/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Bharathroyal18/Leetcode/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/Bharathroyal18/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Bharathroyal18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bharathroyal18/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharathroyal18/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathroyal18/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/Bharathroyal18/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bharathroyal18/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/Bharathroyal18/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathroyal18/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bharathroyal18/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
