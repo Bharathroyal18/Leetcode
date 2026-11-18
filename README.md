@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Bharathroyal18/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharathroyal18/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathroyal18/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bharathroyal18/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharathroyal18/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bharathroyal18/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bharathroyal18/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
