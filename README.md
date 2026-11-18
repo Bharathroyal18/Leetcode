@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Bharathroyal18/Leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharathroyal18/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Bharathroyal18/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Bharathroyal18/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bharathroyal18/Leetcode/tree/master/0268-missing-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Bharathroyal18/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharathroyal18/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Bharathroyal18/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bharathroyal18/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharathroyal18/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bharathroyal18/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
