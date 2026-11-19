@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Bharathroyal18/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bharathroyal18/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathroyal18/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bharathroyal18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharathroyal18/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharathroyal18/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bharathroyal18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Bharathroyal18/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Bharathroyal18/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bharathroyal18/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharathroyal18/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathroyal18/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
