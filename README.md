@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Bharathroyal18/Leetcode/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bharathroyal18/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bharathroyal18/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Bharathroyal18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharathroyal18/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Bharathroyal18/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bharathroyal18/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/Bharathroyal18/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharathroyal18/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bharathroyal18/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharathroyal18/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bharathroyal18/Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Bharathroyal18/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Bharathroyal18/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bharathroyal18/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bharathroyal18/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Indexed Tree
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bharathroyal18/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bharathroyal18/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bharathroyal18/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -475,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bharathroyal18/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharathroyal18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bharathroyal18/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
