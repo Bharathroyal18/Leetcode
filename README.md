@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharathroyal18/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Bharathroyal18/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bharathroyal18/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/Bharathroyal18/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Bharathroyal18/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bharathroyal18/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Bharathroyal18/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bharathroyal18/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bharathroyal18/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2418-sort-the-people](https://github.com/Bharathroyal18/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Bharathroyal18/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Bharathroyal18/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Bharathroyal18/Leetcode/tree/master/3174-clear-digits) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bharathroyal18/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bharathroyal18/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/Bharathroyal18/Leetcode/tree/master/2418-sort-the-people) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bharathroyal18/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Bharathroyal18/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Bharathroyal18/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathroyal18/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2418-sort-the-people](https://github.com/Bharathroyal18/Leetcode/tree/master/2418-sort-the-people) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Bharathroyal18/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bharathroyal18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Bharathroyal18/Leetcode/tree/master/2974-minimum-number-game) |
