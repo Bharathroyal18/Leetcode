@@ -9,13 +9,13 @@ class Solution:
     def inorderTraversal(self, root: TreeNode | None) -> list[int]:
         result = []
 
-        def inorder(root):
-            if root is None:
+        def inorder(node):
+            if node is None:
                 return
 
-            inorder(root.left)
-            result.append(root.val)
-            inorder(root.right)
+            inorder(node.left)
+            result.append(node.val)
+            inorder(node.right)
 
         inorder(root)
         
